@@ -1,0 +1,7 @@
+urxvt*scrollBar: false
+urxvt.internalBorder: 5
+urxvt*background: [20]#2c1c0d
+urxvt*depth: 32
+urxvt.font: xft:xos4 Terminus:size=12:style=Bold
+urxvt*foreground: #cc8505
+urxvt*cursorColor: #ffbf00
